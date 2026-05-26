@@ -6,7 +6,6 @@ Implements three independent pricers — **Black-Scholes-Merton** (analytical), 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3B82F6?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-EF4444?style=flat-square&logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
 ---
 
