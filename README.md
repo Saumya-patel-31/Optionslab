@@ -181,7 +181,3 @@ Put-call parity residual: `< 1e-6` at every strike.
 **Python 3.11+** · NumPy · SciPy · Pandas · Plotly · Streamlit · yfinance
 
 ---
-
-## License
-
-MIT
